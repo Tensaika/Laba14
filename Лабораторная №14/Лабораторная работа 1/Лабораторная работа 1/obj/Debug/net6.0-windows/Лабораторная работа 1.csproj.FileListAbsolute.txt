@@ -1,0 +1,21 @@
+E:\visual studio\Лабораторная работа 1\Лабораторная работа 1\obj\Debug\net6.0-windows\Лабораторная работа 1.csproj.AssemblyReference.cache
+E:\visual studio\Лабораторная работа 1\Лабораторная работа 1\obj\Debug\net6.0-windows\MainWindow.g.cs
+E:\visual studio\Лабораторная работа 1\Лабораторная работа 1\obj\Debug\net6.0-windows\App.g.cs
+E:\visual studio\Лабораторная работа 1\Лабораторная работа 1\obj\Debug\net6.0-windows\Лабораторная работа 1_MarkupCompile.cache
+E:\visual studio\Лабораторная работа 1\Лабораторная работа 1\obj\Debug\net6.0-windows\Лабораторная работа 1_MarkupCompile.lref
+E:\visual studio\Лабораторная работа 1\Лабораторная работа 1\bin\Debug\net6.0-windows\Лабораторная работа 1.exe
+E:\visual studio\Лабораторная работа 1\Лабораторная работа 1\bin\Debug\net6.0-windows\Лабораторная работа 1.deps.json
+E:\visual studio\Лабораторная работа 1\Лабораторная работа 1\bin\Debug\net6.0-windows\Лабораторная работа 1.runtimeconfig.json
+E:\visual studio\Лабораторная работа 1\Лабораторная работа 1\bin\Debug\net6.0-windows\Лабораторная работа 1.dll
+E:\visual studio\Лабораторная работа 1\Лабораторная работа 1\bin\Debug\net6.0-windows\Лабораторная работа 1.pdb
+E:\visual studio\Лабораторная работа 1\Лабораторная работа 1\obj\Debug\net6.0-windows\MainWindow.baml
+E:\visual studio\Лабораторная работа 1\Лабораторная работа 1\obj\Debug\net6.0-windows\Лабораторная работа 1.g.resources
+E:\visual studio\Лабораторная работа 1\Лабораторная работа 1\obj\Debug\net6.0-windows\Лабораторная работа 1.GeneratedMSBuildEditorConfig.editorconfig
+E:\visual studio\Лабораторная работа 1\Лабораторная работа 1\obj\Debug\net6.0-windows\Лабораторная работа 1.AssemblyInfoInputs.cache
+E:\visual studio\Лабораторная работа 1\Лабораторная работа 1\obj\Debug\net6.0-windows\Лабораторная работа 1.AssemblyInfo.cs
+E:\visual studio\Лабораторная работа 1\Лабораторная работа 1\obj\Debug\net6.0-windows\Лабораторная работа 1.csproj.CoreCompileInputs.cache
+E:\visual studio\Лабораторная работа 1\Лабораторная работа 1\obj\Debug\net6.0-windows\Лабораторная работа 1.dll
+E:\visual studio\Лабораторная работа 1\Лабораторная работа 1\obj\Debug\net6.0-windows\refint\Лабораторная работа 1.dll
+E:\visual studio\Лабораторная работа 1\Лабораторная работа 1\obj\Debug\net6.0-windows\Лабораторная работа 1.pdb
+E:\visual studio\Лабораторная работа 1\Лабораторная работа 1\obj\Debug\net6.0-windows\Лабораторная работа 1.genruntimeconfig.cache
+E:\visual studio\Лабораторная работа 1\Лабораторная работа 1\obj\Debug\net6.0-windows\ref\Лабораторная работа 1.dll
